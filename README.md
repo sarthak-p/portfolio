@@ -1,3 +1,3 @@
-# Portfolio Jekyll Theme
+# Sarthak Patipati Portfolio
 
-###Link: https://sarthak-p.github.io/portfolio/
+### Link: https://sarthak-p.github.io/portfolio/
