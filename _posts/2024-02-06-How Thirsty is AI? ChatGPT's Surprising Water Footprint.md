@@ -2,6 +2,7 @@
 layout: post
 title: "How Thirsty is AI? ChatGPT's Surprising Water Footprint"
 ---
+
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/water.png?raw=true">
 
 Ever wondered what it takes to power ChatGPT? It's not just about electricity; we're talking gallons of water too! Last year, posing a bunch of questions to ChatGPT might have used more resources than you'd expect, making us ponder: How green is our AI?
