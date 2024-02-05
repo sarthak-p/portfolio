@@ -3,7 +3,7 @@ layout: post
 title: "Why I Began to Truly Code After Graduating"
 ---
 
-![Code](../assets/img/posts/code.jpeg)  
+<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/code.jpeg?raw=true">
 
 Just graduated with a CS degree and 6+ years of programming under my belt, yet I've only just started coding. Yes, you read that right. Why? Because now, I code by my own rules, on my own terms.
 

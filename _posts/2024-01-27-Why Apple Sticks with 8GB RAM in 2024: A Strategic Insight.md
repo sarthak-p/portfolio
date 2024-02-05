@@ -3,7 +3,7 @@ layout: post
 title: "Why Apple Sticks with 8GB RAM in 2024: A Strategic Insight"
 ---
 
-![Ram](../assets/img/posts/ram.jpeg)  
+<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/ram.jpeg?raw=true">
 
 In 2024, Apple still offers 8GB RAM on their base Macbook models, charging an extra $200 for a 16GB upgrade. I always thought this was surprising and did some research. Here are my findings into Apple's smart play:
 

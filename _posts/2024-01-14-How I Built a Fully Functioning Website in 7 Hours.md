@@ -2,7 +2,7 @@
 layout: post
 title: "How I Built a Fully Functioning Website in 7 Hours"
 ---
-<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/code.jpeg?raw=true">
+<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/portfolio-old.jpeg?raw=true">
 
 After months of not writing a single line of code (yes, even coders need a break!), I decided to dive right back in. And guess what? I built a portfolio website from scratch in just 7 hours!
 
