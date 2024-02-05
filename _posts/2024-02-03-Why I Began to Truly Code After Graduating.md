@@ -3,6 +3,8 @@ layout: post
 title: "Why I Began to Truly Code After Graduating"
 ---
 
+![Code](../assets/img/posts/code.jpeg)  
+
 Just graduated with a CS degree and 6+ years of programming under my belt, yet I've only just started coding. Yes, you read that right. Why? Because now, I code by my own rules, on my own terms.
 
 During my academic years, I was constantly juggling assignments, projects, and deadlines. There was always a requirement to meet or a box to tick. It was all about getting through the curriculum. But now, without the looming pressure of grades or the strict structure of academia, I've found my coding nirvana.
