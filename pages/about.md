@@ -13,4 +13,3 @@ I am like your friendly neighborhood tech enthusiast with a passion for solving 
 This isn't just a career path—it's my mission to make a lasting difference in the world through the power of technology.
 
 Download <a href="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Sarthak%20Patipati%20Resume.pdf" target="_blank">Resume</a>
-
