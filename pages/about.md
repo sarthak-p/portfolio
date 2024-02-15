@@ -6,7 +6,7 @@ permalink: /about
 
 # Software Developer
 
-<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="280" height="400">
+<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="300" height="400">
 
 I am like your friendly neighborhood tech enthusiast with a passion for solving complex problems and delivering impactful solutions.I am constantly seeking new opportunities to make a positive impact and grow my skills.
 
