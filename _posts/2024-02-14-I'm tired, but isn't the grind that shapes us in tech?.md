@@ -2,7 +2,7 @@
 layout: post
 title: "I'm tired, but isn't the grind that shapes us in tech?"
 ---
-<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/portfolio-old.jpeg?raw=true">
+<img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/keep-pushing.png">
 
 I understand that feeling, fresh out of college with a degree in hand and the world seemingly on pause. It's only been a few months since I've graduated, and I won't sugarcoat it—I'm still on the hunt for that first big break in tech. 
 
