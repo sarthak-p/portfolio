@@ -11,3 +11,5 @@ It's not always easy. There are days when I feel all on my own, or so tired I ca
 So, for anyone who's just finished school and is trying to find their way, you're not alone. I get it. It's tough not knowing what's coming next. But here's what I've learned: Just keep moving. Apply for that job, learn that new programming language, tackle that project.  We're all in this together. 
 
 In the end, we can't control the job market or predict the future. But we can control how much effort we put in. So let's put in the work and be proud of it. That's what counts. 
+
+#Tech #SoftwareEngineering #RecentGrad
