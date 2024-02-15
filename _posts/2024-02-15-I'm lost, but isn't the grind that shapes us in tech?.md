@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm tired, but isn't the grind that shapes us in tech?"
+title: "I'm lost, but isn't the grind that shapes us in tech?"
 ---
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/posts/keep-pushing.png?raw=true">
 
