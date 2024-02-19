@@ -19,8 +19,8 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 - Operating Systems: MacOS, Windows
 
 #### More About Me
-- 🌍 I look forward to challenges and opportunities
-- 🏋🏽 I enjoy exercise, movies, people, and life 
+- I look forward to challenges and opportunities
+- I enjoy exercise, movies, people, and life 
 
 <br>
 
