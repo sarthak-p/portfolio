@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Full-Stack Developer by day ☼ Learner by night ☾
+# Software Developer
 
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="300" height="400">
 
@@ -20,6 +20,8 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 #### More About Me
 - 🌍 I look forward to challenges and opportunities
-- 🏋🏽 I enjoy exercise, movies, people, and life
+- 🏋🏽 I enjoy exercise, movies, people, and life 
+
+<br>
 
 Download <a href="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Sarthak%20Patipati%20Resume.pdf" target="_blank">Resume</a>
