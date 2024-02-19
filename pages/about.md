@@ -8,8 +8,20 @@ permalink: /about
 
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="300" height="400">
 
-I am like your friendly neighborhood tech enthusiast with a passion for solving complex problems and delivering impactful solutions.I am constantly seeking new opportunities to make a positive impact and grow my skills.
+#### Full-Stack Developer by day ☼ Learner by night ☾
 
-This isn't just a career path—it's my mission to make a lasting difference in the world through the power of technology.
+Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack/)<br>
+Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
+
+#### Key Skills 
+- Programming: `.java`, `.js`, `.py`, `.c`, `.ts`, `.html`, `.css`, `SQL`
+- Frameworks/Libraries: `Angular`, `Spring`, `JPA`, `jQuery`, `Node`
+- Tools & Software: `VS Code`, `Git`, `GitHub`, `npm`, `Maven`, `pgAdmin`
+- Databases: `PostgreSQL`
+- Operating Systems: `MacOS`, `Windows`
+
+#### More About Me
+- 🌍 I look forward to challenges and opportunities
+- 🏋🏽 I enjoy exercise, movies, people, and life
 
 Download <a href="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Sarthak%20Patipati%20Resume.pdf" target="_blank">Resume</a>
