@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Software Developer
+# Full-Stack Developer
 
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="300" height="400">
 
