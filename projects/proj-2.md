@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Energy Consumption'
+title: '𝕏 API'
 ---
 
-Predicting Peak Energy Consumption Time using Geospatial Data: An Analysis of Residential Accounts in Chicago.
+A REST API for a social media platform resembling 𝕏, utilizing Spring Boot, JPA, and PostgreSQL, managing user interactions, tweets, hashtags, and follower dynamics
 
-{% include image.html url="https://github.com/sarthak-p/EnergyConsumption" image="projects/proj-2/energy.jpg" %}
+{% include image.html url="https://github.com/sarthak-p/CommuteSent" image="projects/proj-4/twitter.jpg" %}

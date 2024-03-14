@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'CommuteSent'
+title: 'Sensible'
 ---
 
- A deep learning model to estimate sentiment on commuting from tweets during the COVID-19 pandemic in the US.
+Sensible is a student productivity app aiming to simplify and enhance the learning experience by prioritizing high discoverability and usability, challenging existing educational app standards.
 
-{% include image.html url="https://github.com/sarthak-p/CommuteSent" image="projects/proj-4/twitter.jpg" %}
+{% include image.html url="https://github.com/sarthak-p/Sensible" image="projects/proj-5/students.jpg" %}
