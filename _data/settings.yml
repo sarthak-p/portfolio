@@ -1,32 +1,30 @@
+---
 #-------------------------------
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'About',    url: 'about'}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'Contact',  url: 'contact'}
+  - { name: "Projects", url: "" }
+  - { name: "About", url: "about" }
+  - { name: "Blog", url: "blog" }
+  - { name: "Contact", url: "contact" }
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Endangered Species Analysis',   url: 'proj-1'}
-- {name: 'Energy Consumption',   url: 'proj-2'}
-- {name: 'Fitness and Nutrition Buddy', url: 'proj-3'}
-- {name: 'CommuteSent',  url: 'proj-4'}
-- {name: 'Sensible',  url: 'proj-5'}
-# - {name: 'Project Six',  url: 'proj-5'}
-
-
+  - { name: "Dev Duel", url: "proj-1" }
+  - { name: "𝕏 API", url: "proj-2" }
+  - { name: "Fitness and Nutrition Buddy", url: "proj-3" }
+  - { name: "Sensible", url: "proj-4" }
+  # - { name: "Sensible", url: "proj-4" }
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/sarthak-p'}
-- {icon: 'github',    link: 'https://github.com/sarthak-p'}
-- {icon: 'instagram', link: 'https://www.instagram.com/sarthpatipati/'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+  - { icon: "linkedin", link: "https://linkedin.com/in/sarthak-p" }
+  - { icon: "github", link: "https://github.com/sarthak-p" }
+  - { icon: "instagram", link: "https://www.instagram.com/sarthpatipati/" }
+  - { icon: "envelope", link: "mailto:mailto:pusarthak@gmail.com" }
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -36,9 +34,9 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: "Personal portfolio powered by Jekyll and GitHub Pages "
+  rel-author: "https://plus.google.com/u/0/#"
+  rel-publisher: "https://plus.google.com/u/0/#"
 
 #-------------------------------
 # Google Analytics Section
@@ -49,7 +47,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: ''
+google-analytics-ua: ""
 
 #-------------------------------
 # Disqus Section
@@ -57,4 +55,4 @@ google-analytics-ua: ''
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: ''
+  disqus_shortname: ""
