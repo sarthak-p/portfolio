@@ -12,10 +12,11 @@ menu:
 # Projects Section
 
 projects:
-  - { name: "Who's Who", url: "proj-1" }
-  - { name: "Dev Duel", url: "proj-2" }
-  - { name: "𝕏 API", url: "proj-3" }
-  - { name: "Fitness and Nutrition Buddy", url: "proj-4" }
+  - { name: "Full-Stack", url: "proj-1" }
+  - { name: "Who's Who", url: "proj-2" }
+  - { name: "Dev Duel", url: "proj-3" }
+  - { name: "𝕏 API", url: "proj-4" }
+  - { name: "Fitness and Nutrition Buddy", url: "proj-5" }
 #-------------------------------
 # Contact Section
 
