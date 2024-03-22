@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Fitness and Nutrition Buddy'
+title: '𝕏 API'
 ---
-A Java-based application for locating nearby healthy meal options based on dietary preferences using a SQL database while tracking fitness metrics for a convenient, health-focused lifestyle
 
-{% include image.html url="https://github.com/sarthak-p/Fitness-NutritionBuddy" image="projects/proj-3/fitness.jpg" %}
+A REST API for a social media platform resembling 𝕏, utilizing Spring Boot, JPA, and PostgreSQL, managing user interactions, tweets, hashtags, and follower dynamics
+
+{% include image.html url="https://github.com/fasttrackd-student-work/spring-assessment-social-media-feb-2024-team-3" image="projects/proj-3/twitter.jpg" %}

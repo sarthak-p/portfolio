@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '𝕏 API'
+title: 'Who's Who'
 ---
 
-A REST API for a social media platform resembling 𝕏, utilizing Spring Boot, JPA, and PostgreSQL, managing user interactions, tweets, hashtags, and follower dynamics
+An interactive, Angular-based music guessing game featuring live previews via Spotify API, OAuth security, and diverse gameplay options, designed for scalability
 
-{% include image.html url="https://github.com/fasttrackd-student-work/spring-assessment-social-media-feb-2024-team-3" image="projects/proj-4/twitter.jpg" %}
+{% include image.html url="https://github.com/fasttrackd-student-work/angular-whos-who-feb-2024-team-5/tree/main" image="projects/proj-2/spotify.jpg" %}

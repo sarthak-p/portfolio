@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Sensible"
+title: 'Dev Duel'
 ---
+A full-stack web application leveraging Node.js, Express, and Angular to dynamically fetch, display, and compare GitHub user profiles and repositories using the GitHub API
 
-Sensible is a student productivity app aiming to simplify and enhance the learning experience by prioritizing high discoverability and usability, challenging existing educational app standards
-
-{% include image.html url="https://github.com/sarthak-p/Sensible" image="projects/proj-5/students.jpg" %}
+{% include image.html url="https://github.com/fasttrackd-student-work/angular-dev-duel-sarthak-p" image="projects/proj-4/github.jpg" %}

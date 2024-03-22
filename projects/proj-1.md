@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Dev Duel'
+title: 'Full Stack Project'
 ---
-A full-stack web application leveraging Node.js, Express, and Angular to dynamically fetch, display, and compare GitHub user profiles and repositories using the GitHub API
 
-{% include image.html url="https://github.com/fasttrackd-student-work/angular-dev-duel-sarthak-p" image="projects/proj-1/github.jpg" %}
+A REST API for a social media platform resembling 𝕏, utilizing Spring Boot, JPA, and PostgreSQL, managing user interactions, tweets, hashtags, and follower dynamics
+
+{% include image.html url="https://github.com/fasttrackd-student-work/spring-assessment-social-media-feb-2024-team-3" image="projects/proj-4/github.jpg" %}

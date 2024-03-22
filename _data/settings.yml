@@ -12,11 +12,10 @@ menu:
 # Projects Section
 
 projects:
-  - { name: "Dev Duel", url: "proj-1" }
-  - { name: "𝕏 API", url: "proj-2" }
-  - { name: "Fitness and Nutrition Buddy", url: "proj-3" }
-  - { name: "Sensible", url: "proj-4" }
-  # - { name: "Sensible", url: "proj-4" }
+  - { name: "Who's Who", url: "proj-1" }
+  - { name: "Dev Duel", url: "proj-2" }
+  - { name: "𝕏 API", url: "proj-3" }
+  - { name: "Fitness and Nutrition Buddy", url: "proj-4" }
 #-------------------------------
 # Contact Section
 
