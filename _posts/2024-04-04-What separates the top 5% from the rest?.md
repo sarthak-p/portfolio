@@ -11,11 +11,11 @@ Consider the impact:
 
 📖 Reading 10 pages daily = 15 books a year
 
-💻 A daily Leetcode problem solved = 365 problems a year
+💻 A daily Leetcode problem solved = 365 problems annually
 
-👟 Burning 200 extra calories daily = 73,000 calories annually
+👟 Running a mile a day = 14 marathons a year
 
-💸 Saving $10 each day = $3,650 a year
+💸 Saving $10 each day = $3,650 annually
 
 These small, daily actions—are as simple to execute into our daily routine as they are to overlook. Yet, it's this very simplicity, coupled with the discipline to maintain these habits day after day, that distinguishes the achievers from the rest.
 
