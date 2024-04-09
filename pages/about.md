@@ -25,3 +25,5 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 - I enjoy exercise, movies, nature, and people<br>
 
 Download <a href="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Sarthak%20Resume.pdf" target="_blank">Resume</a>
+
+View <a href="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Sarthak%20Resume.pdf" target="_blank">Certifications</a>
