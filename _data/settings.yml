@@ -17,6 +17,7 @@ projects:
   - { name: "𝕏 API", url: "proj-3" }
   - { name: "Dev Duel", url: "proj-4" }
   - { name: "Nearby", url: "proj-5" }
+  # - { name: "Nearby", url: "proj-5" }
 #-------------------------------
 # Contact Section
 
