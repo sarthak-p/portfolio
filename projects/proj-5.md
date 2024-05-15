@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fitness and Nutrition Buddy'
+title: 'Nearby'
 ---
-A Java-based application for locating nearby healthy meal options based on dietary preferences using a SQL database while tracking fitness metrics for a convenient, health-focused lifestyle
+An AI-driven iOS app using real-time location data to present historical facts and navigate users to nearby historical sites
 
-{% include image.html url="https://github.com/sarthak-p/Fitness-NutritionBuddy" image="projects/proj-5/fitness.jpg" %}
+{% include image.html url="https://github.com/sarthak-p/Nearby" image="projects/proj-5/history.jpg" %}
