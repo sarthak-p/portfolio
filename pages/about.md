@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Software Developer
+# Software Engineer by day ☼ Learner by night ☾
 
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="320" height="330">
 
