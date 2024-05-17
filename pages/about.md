@@ -8,8 +8,7 @@ permalink: /about
 
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="320" height="330">
 
-Former apprentice at [Cook Systems](https://cooksys.com/FastTrack/)<br>
-Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
+Software Engineer by day ☼ Learner by night ☾
 
 #### Key Skills
 
