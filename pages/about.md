@@ -12,10 +12,10 @@ Software Engineer by day ☼ Learner by night ☾
 
 #### Key Skills
 
-- **Programming**: .java, .js, .py, .ts, .html, .css, .sql<br>
-- **Frameworks/Libraries**: Angular, React, Spring, Node.js, Express, jQuery<br>
-- **Tools & Software**: VS Code, Git, GitHub, npm, Maven, pgAdmin<br>
-- **Databases**: PostgreSQL<br>
+- **Programming**: .java, .js, .cs, .html, .css, .sql, .ts, .py<br>
+- **Frameworks/Libraries**: React.js, .NET, Angular, Spring, Node.js, Express, jQuery<br>
+- **Tools & Software**: Git, Docker, Kubernetes, GitHub, npm, Maven, pgAdmin, VS Code<br>
+- **Databases**: PostgreSQL, MongoDB<br>
 - **Operating Systems**: MacOS, Windows<br>
 
 #### More About Me
@@ -24,4 +24,3 @@ Software Engineer by day ☼ Learner by night ☾
 - I enjoy exercise, movies, nature, and people<br>
 
 Download [Resume](https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Sarthak%20Resume.pdf)<br>
-View [Certificates](https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/files/Certificates.pdf)<br>
