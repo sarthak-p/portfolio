@@ -8,8 +8,6 @@ permalink: /about
 
 <img src="https://github.com/sarthak-p/portfolio/blob/gh-pages/assets/img/misc/Sarthak%20Photo.jpg?raw=true" width="320" height="330">
 
-Software Engineer by day ☼ Learner by night ☾
-
 #### Key Skills
 
 - **Programming**: .java, .js, .cs, .html, .css, .sql, .ts, .py<br>
